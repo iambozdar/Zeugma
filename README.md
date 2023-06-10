@@ -1,10 +1,10 @@
 # Zeugma
 Zeugma is an HTML landing page theme for your next event. Download it and customize it as you wish.
 
-It has GNU 3.0 License.
+Powered by GNU 3.0 License
 
-Do not forget to link back https://ajbozdar.com
+Do not forget to link back https://iambozdar.com
 
-Follow me on https://twitter.com/ajbozdar 
+Follow me on https://twitter.com/iambozdar 
 
-Cheers!
+Thanks.
